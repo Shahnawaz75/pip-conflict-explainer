@@ -1,0 +1,70 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pip-conflict-explainer"
+version = "0.1.0"
+description = "Explain pip and uv dependency conflicts (ResolutionImpossible) in plain English and find versions that actually install."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.10"
+authors = [{ name = "Shahnawaz75" }]
+keywords = [
+    "pip",
+    "uv",
+    "dependency-conflict",
+    "resolutionimpossible",
+    "dependency-resolution",
+    "requirements",
+    "requirements-txt",
+    "version-conflict",
+    "packaging",
+    "pypi",
+    "cli",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Software Development :: Build Tools",
+    "Topic :: System :: Installation/Setup",
+    "Topic :: Utilities",
+    "Typing :: Typed",
+]
+dependencies = ["packaging>=22"]
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[project.urls]
+Homepage = "https://github.com/Shahnawaz75/pip-conflict-explainer"
+Issues = "https://github.com/Shahnawaz75/pip-conflict-explainer/issues"
+Documentation = "https://shahnawaz75.github.io/pip-conflict-explainer/"
+Changelog = "https://github.com/Shahnawaz75/pip-conflict-explainer/blob/main/CHANGELOG.md"
+
+[project.scripts]
+pip-conflict = "pip_conflict_explainer.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/pip_conflict_explainer"]
+
+[tool.hatch.build.targets.sdist]
+include = ["src", "tests", "docs", "README.md", "CHANGELOG.md", "LICENSE"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
