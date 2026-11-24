@@ -1,0 +1,2 @@
+error: No solution found when resolving dependencies
+  cause: Because only requests<=2.34.2 is available and you require requests>=9, we can conclude that your requirements are unsatisfiable.

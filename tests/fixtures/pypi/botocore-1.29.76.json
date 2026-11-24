@@ -1,0 +1,13 @@
+{
+ "info": {
+  "name": "botocore",
+  "requires_dist": [
+   "jmespath (<2.0.0,>=0.7.1)",
+   "python-dateutil (<3.0.0,>=2.1)",
+   "urllib3 (<1.27,>=1.25.4)",
+   "awscrt (==0.16.9) ; extra == 'crt'"
+  ],
+  "requires_python": ">= 3.7",
+  "version": "1.29.76"
+ }
+}

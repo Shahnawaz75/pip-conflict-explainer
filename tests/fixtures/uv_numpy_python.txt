@@ -1,0 +1,5 @@
+error: No solution found when resolving dependencies
+  cause: Because the requested Python version (>=3.10) does not satisfy Python>=3.11 and numpy==2.3.0 depends on Python>=3.11, we can conclude that numpy==2.3.0 cannot be used.
+         And because you require numpy==2.3.0, we can conclude that your requirements are unsatisfiable.
+
+hint: The `--python-version` value (>=3.10) includes Python versions that are not supported by your dependencies (e.g., numpy==2.3.0 only supports >=3.11). Consider using a higher `--python-version` value.

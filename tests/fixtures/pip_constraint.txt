@@ -1,0 +1,20 @@
+Collecting requests==2.31.0 (from -r req-constraint.txt (line 1))
+  Using cached requests-2.31.0-py3-none-any.whl.metadata (4.6 kB)
+Collecting charset-normalizer<4,>=2 (from requests==2.31.0->-r req-constraint.txt (line 1))
+  Using cached charset_normalizer-3.5.3-cp314-cp314-win_amd64.whl.metadata (44 kB)
+Collecting idna<4,>=2.5 (from requests==2.31.0->-r req-constraint.txt (line 1))
+  Using cached idna-3.20-py3-none-any.whl.metadata (7.2 kB)
+ERROR: Cannot install -r req-constraint.txt (line 1) because these package versions have conflicting dependencies.
+
+The conflict is caused by:
+    requests 2.31.0 depends on urllib3<3 and >=1.21.1
+    The user requested (constraint) urllib3<1.21
+
+Additionally, some packages in these conflicts have no matching distributions available for your environment:
+    urllib3
+
+To fix this you could try to:
+1. loosen the range of package versions you've specified
+2. remove package versions to allow pip to attempt to solve the dependency conflict
+
+ERROR: ResolutionImpossible: for help visit https://pip.pypa.io/en/latest/topics/dependency-resolution/#dealing-with-dependency-conflicts

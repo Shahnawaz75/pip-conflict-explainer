@@ -1,0 +1,8 @@
+{
+ "info": {
+  "name": "numpy",
+  "requires_dist": null,
+  "requires_python": ">=3.7",
+  "version": "1.21.0"
+ }
+}

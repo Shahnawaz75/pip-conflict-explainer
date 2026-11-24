@@ -1,0 +1,3 @@
+error: No solution found when resolving dependencies
+  cause: Because pandas==2.2.0 depends on numpy{python_full_version < '3.11'}>=1.22.4,<2 and you require pandas==2.2.0, we can conclude that you require numpy>=1.22.4,<2.
+         And because you require numpy==1.21.0, we can conclude that your requirements are unsatisfiable.

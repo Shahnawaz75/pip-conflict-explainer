@@ -1,0 +1,49 @@
+{
+ "info": {
+  "name": "aiobotocore"
+ },
+ "releases": {
+  "2.13.3": [
+   {
+    "filename": "aiobotocore-2.13.3-py3-none-any.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.8",
+    "yanked": false
+   },
+   {
+    "filename": "aiobotocore-2.13.3.tar.gz",
+    "packagetype": "sdist",
+    "requires_python": ">=3.8",
+    "yanked": false
+   }
+  ],
+  "2.14.0": [
+   {
+    "filename": "aiobotocore-2.14.0-py3-none-any.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.8",
+    "yanked": false
+   },
+   {
+    "filename": "aiobotocore-2.14.0.tar.gz",
+    "packagetype": "sdist",
+    "requires_python": ">=3.8",
+    "yanked": false
+   }
+  ],
+  "2.5.0": [
+   {
+    "filename": "aiobotocore-2.5.0-py3-none-any.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.7",
+    "yanked": false
+   },
+   {
+    "filename": "aiobotocore-2.5.0.tar.gz",
+    "packagetype": "sdist",
+    "requires_python": ">=3.7",
+    "yanked": false
+   }
+  ]
+ }
+}

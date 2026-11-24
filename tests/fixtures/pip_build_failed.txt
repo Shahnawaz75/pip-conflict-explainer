@@ -1,0 +1,13 @@
+Collecting numpy==1.21.0
+  Using cached numpy-1.21.0.zip (10.3 MB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  error: backend-unavailable
+  
+  × Cannot import build backend 'setuptools.build_meta:__legacy__'.
+  ╰─> ModuleNotFoundError: No module named 'distutils'
+  
+  note: This is likely not a problem with pip.
+ERROR: Failed to build 'numpy' when calling build backend hook get_requires_for_build_wheel

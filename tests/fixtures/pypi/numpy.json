@@ -1,0 +1,625 @@
+{
+ "info": {
+  "name": "numpy"
+ },
+ "releases": {
+  "1.21.0": [
+   {
+    "filename": "numpy-1.21.0-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.7",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.21.0-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.7",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.21.0-cp37-cp37m-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.7",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.21.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.7",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.21.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.7",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.21.0-cp38-cp38-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.7",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.21.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.7",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.21.0-cp39-cp39-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.7",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.21.0-pp37-pypy37_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.7",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.21.0.zip",
+    "packagetype": "sdist",
+    "requires_python": ">=3.7",
+    "yanked": false
+   }
+  ],
+  "1.21.6": [
+   {
+    "filename": "numpy-1.21.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.7,<3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.21.6-cp310-cp310-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.7,<3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.21.6-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.7,<3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.21.6-cp37-cp37m-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.7,<3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.21.6-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.7,<3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.21.6-cp38-cp38-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.7,<3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.21.6-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.7,<3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.21.6-cp39-cp39-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.7,<3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.21.6-pp37-pypy37_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.7,<3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.21.6.zip",
+    "packagetype": "sdist",
+    "requires_python": ">=3.7,<3.11",
+    "yanked": false
+   }
+  ],
+  "1.22.4": [
+   {
+    "filename": "numpy-1.22.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.8",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.22.4-cp310-cp310-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.8",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.22.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.8",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.22.4-cp38-cp38-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.8",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.22.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.8",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.22.4-cp39-cp39-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.8",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.22.4-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.8",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.22.4.zip",
+    "packagetype": "sdist",
+    "requires_python": ">=3.8",
+    "yanked": false
+   }
+  ],
+  "1.24.4": [
+   {
+    "filename": "numpy-1.24.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.8",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.24.4-cp310-cp310-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.8",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.24.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.8",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.24.4-cp311-cp311-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.8",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.24.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.8",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.24.4-cp38-cp38-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.8",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.24.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.8",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.24.4-cp39-cp39-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.8",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.24.4-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.8",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.24.4-pp38-pypy38_pp73-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.8",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.24.4.tar.gz",
+    "packagetype": "sdist",
+    "requires_python": ">=3.8",
+    "yanked": false
+   }
+  ],
+  "1.26.4": [
+   {
+    "filename": "numpy-1.26.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.26.4-cp310-cp310-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.26.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.26.4-cp311-cp311-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.26.4-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.26.4-cp312-cp312-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.26.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.26.4-cp39-cp39-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.26.4-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.26.4-pp39-pypy39_pp73-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-1.26.4.tar.gz",
+    "packagetype": "sdist",
+    "requires_python": ">=3.9",
+    "yanked": false
+   }
+  ],
+  "2.0.2": [
+   {
+    "filename": "numpy-2.0.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.0.2-cp310-cp310-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.0.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.0.2-cp311-cp311-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.0.2-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.0.2-cp312-cp312-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.0.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.0.2-cp39-cp39-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.0.2-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.0.2-pp39-pypy39_pp73-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.0.2.tar.gz",
+    "packagetype": "sdist",
+    "requires_python": ">=3.9",
+    "yanked": false
+   }
+  ],
+  "2.2.6": [
+   {
+    "filename": "numpy-2.2.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.2.6-cp310-cp310-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.2.6-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.2.6-cp311-cp311-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.2.6-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.2.6-cp312-cp312-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.2.6-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.2.6-cp313-cp313t-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.2.6-cp313-cp313t-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.2.6-cp313-cp313-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.2.6-pp310-pypy310_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.2.6-pp310-pypy310_pp73-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.2.6.tar.gz",
+    "packagetype": "sdist",
+    "requires_python": ">=3.10",
+    "yanked": false
+   }
+  ],
+  "2.3.0": [
+   {
+    "filename": "numpy-2.3.0-cp311-cp311-manylinux_2_28_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.0-cp311-cp311-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.0-cp312-cp312-manylinux_2_28_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.0-cp312-cp312-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.0-cp313-cp313-manylinux_2_28_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.0-cp313-cp313t-manylinux_2_28_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.0-cp313-cp313t-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.0-cp313-cp313-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.0-pp311-pypy311_pp73-manylinux_2_28_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.0-pp311-pypy311_pp73-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.0.tar.gz",
+    "packagetype": "sdist",
+    "requires_python": ">=3.11",
+    "yanked": false
+   }
+  ],
+  "2.3.5": [
+   {
+    "filename": "numpy-2.3.5-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.5-cp311-cp311-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.5-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.5-cp312-cp312-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.5-cp313-cp313-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.5-cp313-cp313t-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.5-cp313-cp313t-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.5-cp313-cp313-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.5-cp314-cp314-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.5-cp314-cp314t-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.5-cp314-cp314t-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.5-cp314-cp314-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.5-pp311-pypy311_pp73-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.5-pp311-pypy311_pp73-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.11",
+    "yanked": false
+   },
+   {
+    "filename": "numpy-2.3.5.tar.gz",
+    "packagetype": "sdist",
+    "requires_python": ">=3.11",
+    "yanked": false
+   }
+  ]
+ }
+}

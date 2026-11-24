@@ -1,0 +1,169 @@
+{
+ "info": {
+  "name": "tensorflow"
+ },
+ "releases": {
+  "2.15.0": [
+   {
+    "filename": "tensorflow-2.15.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.15.0-cp310-cp310-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.15.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.15.0-cp311-cp311-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.15.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.15.0-cp39-cp39-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   }
+  ],
+  "2.20.0": [
+   {
+    "filename": "tensorflow-2.20.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.20.0-cp310-cp310-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.20.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.20.0-cp311-cp311-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.20.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.20.0-cp312-cp312-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.20.0-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.20.0-cp313-cp313-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.20.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.20.0-cp39-cp39-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.9",
+    "yanked": false
+   }
+  ],
+  "2.22.0rc1": [
+   {
+    "filename": "tensorflow-2.22.0rc1-cp310-cp310-manylinux_2_27_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.22.0rc1-cp310-cp310-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.22.0rc1-cp311-cp311-manylinux_2_27_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.22.0rc1-cp311-cp311-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.22.0rc1-cp312-cp312-manylinux_2_27_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.22.0rc1-cp312-cp312-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.22.0rc1-cp313-cp313-manylinux_2_27_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.22.0rc1-cp313-cp313-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.22.0rc1-cp314-cp314-manylinux_2_27_x86_64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   },
+   {
+    "filename": "tensorflow-2.22.0rc1-cp314-cp314-win_amd64.whl",
+    "packagetype": "bdist_wheel",
+    "requires_python": ">=3.10",
+    "yanked": false
+   }
+  ]
+ }
+}
